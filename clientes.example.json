@@ -1,0 +1,12 @@
+[
+  {
+    "empresa": "Empresa Exemplo LTDA",
+    "pasta": "Empresa_Exemplo",
+    "email": "contato@empresaexemplo.com.br"
+  },
+  {
+    "empresa": "Cliente Demonstração ME",
+    "pasta": "Cliente_Demonstracao",
+    "email": "financeiro@clientedemo.com.br"
+  }
+]

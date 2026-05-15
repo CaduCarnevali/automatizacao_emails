@@ -1,0 +1,14 @@
+.env
+
+__pycache__/
+.vscode/
+
+*.pdf
+*.xlsx
+*.txt
+
+*.log
+clientes/
+relatorios/
+
+clientes.json
