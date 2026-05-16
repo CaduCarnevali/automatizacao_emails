@@ -6,9 +6,12 @@ __pycache__/
 *.pdf
 *.xlsx
 *.txt
+!requirements.txt
 
 *.log
 clientes/
 relatorios/
 
 clientes.json
+
+.claude/
